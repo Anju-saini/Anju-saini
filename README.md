@@ -24,4 +24,11 @@ Proficient with Git and collaborative development workflows.
 ---
 [![](https://visitcount.itsvg.in/api?id=Anju-saini&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Python              ████████████████████████░░ 80%
+PHP                 ██████████████████████████ 90%
+HTML                ████████████████░░░░░░░░░░ 60%
+Java                ██████████░░░░░░░░░░░░░░░░ 40%
+Jupyter Notebook    (Shown naturally in GitHub stats)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
