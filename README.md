@@ -21,14 +21,28 @@ Proficient with Git and collaborative development workflows.
 ![](https://nirzak-streak-stats.vercel.app/?user=Anju-saini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anju-saini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Anju-saini&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 My Custom Language Usage
 
-Python              ████████████████████████░░ 80%
-PHP                 ██████████████████████████ 90%
-HTML                ████████████████░░░░░░░░░░ 60%
-Java                ██████████░░░░░░░░░░░░░░░░ 40%
-Jupyter Notebook    (Shown naturally in GitHub stats)
+<!-- Python -->
+**Python (80%)**  
+<img src="https://progress-bar.dev/80/?title=Python&width=400&color=blue" />
+
+<!-- PHP -->
+**PHP (90%)**  
+<img src="https://progress-bar.dev/90/?title=PHP&width=400&color=purple" />
+
+<!-- HTML -->
+**HTML (60%)**  
+<img src="https://progress-bar.dev/60/?title=HTML&width=400&color=orange" />
+
+<!-- Java -->
+**Java (40%)**  
+<img src="https://progress-bar.dev/40/?title=Java&width=400&color=yellow" />
+
+<!-- Jupyter Notebook -->
+**Jupyter Notebook**  
+(Shown naturally in GitHub stats)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
