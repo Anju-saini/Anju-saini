@@ -1,4 +1,14 @@
-# 💫 –  A software developer with 4 years of experience building web applications using PHP and various frameworks.<br><br>For the past 10 months, I have been working in the field of data analytics.<br><br>I am currently involved in multiple data analytics projects, focusing on data processing, visualization, and insights generation.<br><br>Technical Skills:<br><br>Programming: Python, PHP (and PHP frameworks)<br><br>Data & Databases: SQL, Excel<br><br>Visualization Tools: Tableau, Python libraries (Pandas, NumPy, Matplotlib, etc.)<br><br>Version Control: Git<br><br>I am actively seeking opportunities to build my career as a Data Analyst and contribute to data-driven decision-making.
+# 💫 About Me:
+About Me – Anju<br>
+Software Developer with 4 years of experience building web applications using PHP and frameworks.
+<br>
+Transitioned into Data Analytics with 10 months of hands-on experience working on real analytics projects.
+<br>
+Skilled in Python, SQL, Tableau, Excel, and key Python libraries like Pandas, NumPy, and Matplotlib.
+<br>
+Strong foundation in data processing, visualization, and insights generation.
+<br>
+Proficient with Git and collaborative development workflows.
 
 
 ## 🌐 Socials:
