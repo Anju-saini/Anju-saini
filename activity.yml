@@ -1,0 +1,25 @@
+name: Daily Activity Update
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC (change the cron schedule if you want)
+    - cron: '0 0 * * *'
+  workflow_dispatch:   # Lets you run it manually too
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # Automatically provided by GitHub
+
+      - name: Update activity log
+        run: |
+          echo "$(date '+%Y-%m-%d')" >> activity.log
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add activity.log
+          git commit -m "📅 Daily activity update: $(date '+%Y-%m-%d')"
+          git push
