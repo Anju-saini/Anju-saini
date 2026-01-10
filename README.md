@@ -1,14 +1,6 @@
 # 💫 About Me:
 About Me – Anju<br>
-Software Developer with 4 years of experience building web applications using PHP and frameworks.
-<br>
-Transitioned into Data Analytics with 10 months of hands-on experience working on real analytics projects.
-<br>
-Skilled in Python, SQL, Tableau, Excel, and key Python libraries like Pandas, NumPy, and Matplotlib.
-<br>
-Strong foundation in data processing, visualization, and insights generation.
-<br>
-Proficient with Git and collaborative development workflows.
+Data Analyst & Former Software Developer | SQL Expert | Bridging Data Insights & Scalable Engineering
 
 
 ## 🌐 Socials:
