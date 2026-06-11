@@ -4,7 +4,7 @@ Data Analyst & Former Software Developer | SQL Expert | Bridging Data Insights &
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anju-saini-099a87360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anju.saini123123123@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anju-saini-099a87360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anju.saini123123123@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?logo=google-chrome&logoColor=white)](https://www.mygreatlearning.com/eportfolio/anju468)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
